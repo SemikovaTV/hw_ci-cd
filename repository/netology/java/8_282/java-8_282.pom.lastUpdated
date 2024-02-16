@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 16 08:35:10 EST 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1708090298431
+http\://158.160.44.174/\:8081/repository/maven-public/.error=Could not transfer artifact netology\:java\:pom\:8_282 from/to my-repo (http\://158.160.44.174/\:8081/repository/maven-public/)\: Connect to 158.160.44.174\:80 [/158.160.44.174] failed\: Connection refused (Connection refused)
+http\://158.160.44.174\:8081/repository/maven-public/.lastUpdated=1708090510344
+http\://localhost\:8081/repository/maven-public/.error=Could not transfer artifact netology\:java\:pom\:8_282 from/to my-repo (http\://localhost\:8081/repository/maven-public/)\: Connect to localhost\:8081 [localhost/127.0.0.1, localhost/0\:0\:0\:0\:0\:0\:0\:1] failed\: Connection refused (Connection refused)
+https\://repo.maven.apache.org/maven2/.error=
+@default-my-repo-http\://158.160.44.174/\:8081/repository/maven-public/.lastUpdated=1708090415633
+@default-my-repo-http\://localhost\:8081/repository/maven-public/.lastUpdated=1708090295437
+http\://158.160.44.174\:8081/repository/maven-public/.error=
